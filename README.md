@@ -1,6 +1,7 @@
 # flutter_application_3
 
 A new Flutter project.
+github 연동 완료
 
 ## Getting Started
 
@@ -14,3 +15,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+2025.09.22 github 연동 완료
